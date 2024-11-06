@@ -1,5 +1,5 @@
 {
-    "name": "giver/cacheable",
+    "name": "crm360/cacheable",
     "description": "Query caching for Laravel 5",
     "keywords": [
         "laravel",
