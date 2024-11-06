@@ -101,7 +101,7 @@ class Builder extends \Illuminate\Database\Query\Builder
      * @param  string  $key
      * @return $this
      */
-    public function cache($minutes, $key = null){
+    public function cache($minutes = 0, $key = null){
         $this->remember($minutes, $key);
     }
 
