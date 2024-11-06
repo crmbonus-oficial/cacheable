@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/database": "v5.4",
+        "illuminate/database": "v5.4.17",
         "illuminate/support": "~5.0"
     },
     "require-dev": {
