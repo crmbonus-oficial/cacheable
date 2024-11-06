@@ -1,7 +1,12 @@
 {
     "name": "giver/cacheable",
     "description": "Query caching for Laravel 5",
-    "keywords": ["laravel", "eloquent", "caching", "cache"],
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "caching",
+        "cache"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -10,14 +15,14 @@
         }
     ],
     "repositories": [
-	{
-		"type": "git",
-		"url": "https://github.com/claudioldf/cacheable.git"
-	}
+        {
+            "type": "git",
+            "url": "https://github.com/crmbonus-oficial/cacheable.git"
+        }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/database": "v5.1.16.2",
+        "illuminate/database": "v5.4",
         "illuminate/support": "~5.0"
     },
     "require-dev": {
